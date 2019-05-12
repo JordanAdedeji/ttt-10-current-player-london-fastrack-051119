@@ -8,4 +8,4 @@ def turn_count(board)
   return count
 end
 
-def current_player(baord)
+def current_player(board)
